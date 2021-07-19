@@ -1,13 +1,15 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
-    "description": "",
+    "name": "alphaws/billingo-api-v3",
+    "description": "Billingo Invoice aPI clone from Swagger Hub",
     "keywords": [
         "swagger",
         "php",
         "sdk",
-        "api"
+        "api",
+        "billingo",
+        "clone"
     ],
-    "homepage": "http://swagger.io",
+    "homepage": "https://app.swaggerhub.com/apis/Billingo/Billingo/3.0.14",
     "license": "proprietary",
     "authors": [
         {
