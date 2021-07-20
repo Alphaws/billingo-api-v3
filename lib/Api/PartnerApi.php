@@ -1326,6 +1326,8 @@ class PartnerApi
             $headerParams,
             $headers
         );
+// @todo: Alphaws
+        //var_dump($queryParams);die();
 
         $query = \GuzzleHttp\Psr7\build_query($queryParams);
         return new Request(
